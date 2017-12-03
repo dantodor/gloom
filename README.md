@@ -1,5 +1,6 @@
 # gloom
 IBLT Inverted Bloom Lookup Table implementation in scala
+
 This is inspired by Gavin Andresen's C++ implementation
 
 https://github.com/gavinandresen/IBLT_Cplusplus
